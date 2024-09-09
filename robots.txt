@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lenteteon.github.io/sitemap.html.gz
+Sitemap: https://lenteteon.github.io/app/sitemap.html.gz
+Sitemap: https://lenteteon.github.io/assets/sitemap.html.gz
+Sitemap: https://lenteteon.github.io/css/sitemap.html.gz
+Sitemap: https://lenteteon.github.io/includes/sitemap.html.gz
+Sitemap: https://lenteteon.github.io/item/sitemap.html.gz
+Sitemap: https://lenteteon.github.io/src/sitemap.html.gz
